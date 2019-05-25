@@ -1,22 +1,22 @@
 {
-  "name": "illvart.github.io",
+  "name": "lidesign.github.io",
   "description": "My Personal Website.",
   "version": "1.0",
   "author": {
-    "email": "illvart.email@gmail.com",
-    "name": "MNF (illvart)",
-    "url": "https://illvart.pinkyui.com"
+    "email": "nmlimon.bd@gmail.com",
+    "name": "lidesign (Limon)",
+    "url": "https://lidesign.github.io"
   },
   "main": "index.html",
   "license": "MIT",
-  "homepage": "https://github.com/illvart/illvart.github.io",
+  "homepage": "https://github.com/lidesign/lidesign.github.io",
   "private": true,
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/illvart/illvart.github.io.git"
+    "url": "git+https://github.com/lidesign/lidesign.github.io.git"
   },
   "bugs": {
-    "url": "https://github.com/illvart/illvart.github.io/issues"
+    "url": "https://github.com/lidesign/lidesign.github.io/issues"
   },
   "keywords": [
     "personal website",
